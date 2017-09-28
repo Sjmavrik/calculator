@@ -97,7 +97,7 @@
 				TargetAttributes = {
 					FB78BF201991177B00EDBD04 = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = 7XQZX49NVK;
+						DevelopmentTeam = 3M523AM6MF;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +261,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7XQZX49NVK;
+				DEVELOPMENT_TEAM = 3M523AM6MF;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "janne.$(PRODUCT_NAME:rfc1034identifier)";
@@ -278,7 +278,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 7XQZX49NVK;
+				DEVELOPMENT_TEAM = 3M523AM6MF;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "janne.$(PRODUCT_NAME:rfc1034identifier)";
