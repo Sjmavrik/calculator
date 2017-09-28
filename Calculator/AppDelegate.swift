@@ -60,7 +60,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         case .Sub: return arg1 - arg2
         case .Div: return arg1 / arg2
         case .Mul: return arg1 * arg2
-        }//калькулятор
+        }//калькулятор djkfgakdsgfkdsa
     }
     
     @IBAction func btnNumber(sender: NSButton) {
